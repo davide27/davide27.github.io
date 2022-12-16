@@ -12,6 +12,6 @@ export class LoginComponent implements OnInit {
   ngOnInit(): void {
   }
 faiLogin() {
-  alert ("Hai fatto la Login!")
+  alert ("Bravo! Hai fatto la Login!")
 }
 }
